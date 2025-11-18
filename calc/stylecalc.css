@@ -14,7 +14,7 @@
  }
  .calculadora{
      position: absolute;
-     background-color: black;
+     background-color: #ffffff;
      top: 50%; /*posicao vertical,altura da tela*/
      left: 50%; /*direita, colocaa no meio horizontal*/
      transform: translate(-50%,-50%); /* meio perfeito*/
@@ -47,7 +47,7 @@
     height: 50px;
     font-size: 25px; /* tamanho das letras*/
     cursor: pointer; /*muda o cursor*/
-    background-color: aqua;
+    background-color: rgb(213, 231, 231);
     border-radius: 25px;
     margin: 3px; /*distancia entre os botoes*/
     border: none;
@@ -57,7 +57,7 @@
     height: 50px;
     font-size: 25px; /* tamanho das letras*/
     cursor: pointer; /*muda o cursor*/
-    background-color: rgb(178, 178, 224);
+    background-color: rgb(0, 119, 255);
     margin: 3px; /*distancia entre os botoes*/
     border-radius: 25px;
     border: none;
@@ -67,7 +67,7 @@
     height: 50px;/*largura*/
     font-size: 25px; /* tamanho das letras*/
     cursor: pointer; /*muda o cursor*/
-    background-color:rgb(151, 218, 151);
+    background-color:rgb(31, 111, 230);
     margin: 3px; /*distancia entre os botoes*/
     border-radius: 25px;
     border: none;
